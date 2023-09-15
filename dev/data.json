@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+0123456789"
+    },
+    {
+      "type": "EMAIL",
+      "value": "qewrty@gmail.com"
+    }
+  ],
+  "address": {
+    "street": "Main Street",
+    "number": "123",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  },
+  "birthday": "1980-01-01"
+}
